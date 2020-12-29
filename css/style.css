@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -6,6 +12,26 @@ body {
     padding: 0;
     text-align: center;
 }
+
+#cabecera {
+    display: flex;
+    align-items: center;
+    background-color: rgb(19, 147, 245);
+    height: 100px;
+    padding: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+#container #cabecera h1 {
+    font-size: 40px;
+    margin-right: 40px;
+}
+
+#container #cabecera p {
+    font-size: 20px;
+}
+
 
 #container {
     width: 70%;
