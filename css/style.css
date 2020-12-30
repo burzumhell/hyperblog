@@ -11,6 +11,20 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #333;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    background-color: azure;
+}
+
+#container h1 {
+    font-size: 20px;
 }
 
 #cabecera {
@@ -23,8 +37,13 @@ body {
     margin-bottom: 50px;
 }
 
+#cabecera img {
+    width: 40px;
+    margin-right: 20px;
+}
+
 #container #cabecera h1 {
-    font-size: 40px;
+    font-size: 30px;
     margin-right: 40px;
 }
 
@@ -32,15 +51,3 @@ body {
     font-size: 20px;
 }
 
-
-#container {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
-
-#container h1 {
-    font-size: 20px;
-}
