@@ -1,4 +1,4 @@
-1 - Esta es la historia de Eliseo.
-2 - Eliseo tiene 38 años.
-3 - Línea de prueba del checkout.
-4 - Anita tiene 41 años y nació en Internet.
+Esta es la historia de Eliseo.
+Eliseo tiene 38 años.
+Línea de prueba del checkout.
+Anita tiene 41 años y nació en Internet.
