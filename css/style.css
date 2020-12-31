@@ -64,6 +64,10 @@ body {
     font-size: 20px;
 }
 
+.perrito img {
+    width: 100%;
+}
+
 footer {
     display: flex;
     background-color: #777;
