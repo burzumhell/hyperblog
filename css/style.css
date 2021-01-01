@@ -70,7 +70,7 @@ body {
 
 footer {
     display: flex;
-    background-color: #777;
+    background-color: rgb(19, 147, 245);
     color: white;
     justify-content: center;
     padding: 0.7rem;
